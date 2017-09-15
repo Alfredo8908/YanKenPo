@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YanKenPo</string>
+    <string name="vs">VS</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Resetear">Resetear</string>
+</resources>
